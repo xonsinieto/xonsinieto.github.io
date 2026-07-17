@@ -1,0 +1,8 @@
+[{
+      "relation": ["delegate_permission/common.handle_all_urls"],
+      "target": {
+        "namespace": "android_app",
+        "package_name": "io.github.xonsinieto.lecturanotes",
+        "sha256_cert_fingerprints": ["F8:BF:88:4B:33:97:F7:E6:18:3B:F4:BB:7C:75:B2:2C:17:03:AA:A1:0A:55:DC:D6:D2:3A:8A:A2:DA:6D:9E:29"]
+      }
+    }]
